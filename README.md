@@ -203,12 +203,12 @@
 </html>
 
 
-
+<!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<title>Phiếu học tập Toán 11 - Đúng Sai</title>
 <style>
 body {
   font-family: "Segoe UI", Arial, sans-serif;
@@ -252,7 +252,8 @@ footer {
 </style>
 </head>
 <body>
-
+<h1>📘 PHIẾU HỌC TẬP TƯƠNG TÁC – TOÁN 11 CHƯƠNG 1</h1>
+<h2>Dạng Đúng / Sai – Kết nối tri thức</h2>
 
 <script>
 const chapters = [
@@ -383,19 +384,17 @@ function resetSection(ci){
 }
 </script>
 
-<footer>
-  © 2025 - Phiếu học tập Toán 11 | Dạng Đúng / Sai | Kết nối tri thức
-</footer>
+
 </body>
 </html>
 
 
-
+<!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<title>Phiếu học tập Toán 11 - Chương 1</title>
 <style>
 body {
   font-family: "Segoe UI", Arial, sans-serif;
@@ -450,6 +449,8 @@ footer {
 </style>
 </head>
 <body>
+<h1>📘 PHIẾU HỌC TẬP TƯƠNG TÁC – TOÁN 11 CHƯƠNG 1</h1>
+<h2>Kết nối tri thức với cuộc sống</h2>
 
 <script>
 // ===== DỮ LIỆU CÂU HỎI =====
@@ -566,9 +567,6 @@ function resetSection(ci){
 }
 </script>
 
-<footer>
-  © 2025 - Phiếu học tập Toán 11 | Kết nối tri thức
-</footer>
 </body>
 </html>
 
@@ -634,7 +632,7 @@ hr {
 </head>
 <body>
 <div class="container">
-  <h1>PHIẾU HỌC TẬP TƯƠNG TÁC<br>TOÁN 11 – CHƯƠNG 1 (KẾT NỐI TRI THỨC)</h1>
+  
   <p style="text-align:center; color:#555;">Dạng: Tự luận nhiều dòng – không hiển thị đáp án</p>
 
   <!-- Bài 1 -->
