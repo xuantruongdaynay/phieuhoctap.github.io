@@ -32,7 +32,7 @@
   <div class="wrap">
     <header>
       <h1>Phiếu học tập — Chương 1: Lượng giác (Toán 11)</h1>
-      <div class="meta">Dạng trắc nghiệm A–B–C–D • Tự kiểm tra ngay</div>
+      
     </header>
 
     <!-- Lessons container -->
