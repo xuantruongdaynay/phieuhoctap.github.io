@@ -252,8 +252,7 @@ footer {
 </style>
 </head>
 <body>
-<h1>📘 PHIẾU HỌC TẬP TƯƠNG TÁC – TOÁN 11 CHƯƠNG 1</h1>
-<h2>Dạng Đúng / Sai – Kết nối tri thức</h2>
+
 
 <script>
 const chapters = [
@@ -449,8 +448,7 @@ footer {
 </style>
 </head>
 <body>
-<h1>📘 PHIẾU HỌC TẬP TƯƠNG TÁC – TOÁN 11 CHƯƠNG 1</h1>
-<h2>Kết nối tri thức với cuộc sống</h2>
+
 
 <script>
 // ===== DỮ LIỆU CÂU HỎI =====
